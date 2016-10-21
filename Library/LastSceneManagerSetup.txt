@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Assets/Scene/75km_h.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yokoyama.CSharp", "yokoyama.CSharp.csproj", "{B1A53105-4101-71D9-1245-6AEC0459E9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yokoyama.CSharp.Editor", "yokoyama.CSharp.Editor.csproj", "{29BDC95E-9764-DCD0-4E99-C7ABB01501E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A53105-4101-71D9-1245-6AEC0459E9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A53105-4101-71D9-1245-6AEC0459E9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A53105-4101-71D9-1245-6AEC0459E9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A53105-4101-71D9-1245-6AEC0459E9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BDC95E-9764-DCD0-4E99-C7ABB01501E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BDC95E-9764-DCD0-4E99-C7ABB01501E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BDC95E-9764-DCD0-4E99-C7ABB01501E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BDC95E-9764-DCD0-4E99-C7ABB01501E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
